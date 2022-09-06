@@ -7,8 +7,12 @@
         "id": "76c0358a9097fc7f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "public/Util/Git.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "public/Util/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "public/Util/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "public/Util/Git.md"
+              }
             }
           }
         ]
@@ -120,7 +128,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "97c7bcee8def08cf",
+  "active": "76c0358a9097fc7f",
   "lastOpenFiles": [
     "private/Notes/2022-09-06.md",
     "2022-09-06.md",
