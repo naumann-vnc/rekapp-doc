@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "1c7817bf066a5501",
+    "type": "split",
+    "children": [
+      {
+        "id": "76c0358a9097fc7f",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a161b43fe2f26c5",
+    "type": "split",
+    "children": [
+      {
+        "id": "51973fa67ce793dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "97c7bcee8def08cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a2873105708dfd9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07dc8a1036421ef0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a508ebba1cb6def7",
+    "type": "split",
+    "children": [
+      {
+        "id": "785f44e32bb0e611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53dd79f831a40bc4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58e6846d27cd7a6e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc85ba1076d45057",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b807853ace825c89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "97c7bcee8def08cf",
+  "lastOpenFiles": [
+    "private/Notes/2022-09-06.md",
+    "2022-09-06.md",
+    "public/Tasks/Monthly/Gitlab update.md",
+    "private/Tasks/Checks/Daily2022-03-15.md",
+    "public/Tasks/Daily/jobcheck.md",
+    "public/Obsidian related/Templates/Check.md",
+    "public/Obsidian related/Templates/Daily.md",
+    "public/Tasks/Daily/RTD007 - Carrier Checks.md",
+    "public/Util/Code/Install new pip packages.md",
+    "public/Obsidian related/Templates/Code Block.md"
+  ]
+}
