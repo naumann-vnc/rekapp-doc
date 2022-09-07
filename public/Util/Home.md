@@ -4,7 +4,13 @@ https://minimal.guide/Home
 # How to update
 
 1. Manually delete you **.obsidian** and **public** directories
-2. Run ```git reset --hard origin/master```
+2. Run the following commands on your git terminal:
+```shell
+git fetch --all
+git reset --hard origin/master
+```
+(These instructions will be lost when updating, so store them in you local system)
+
 ---
 # Quick instructions
 

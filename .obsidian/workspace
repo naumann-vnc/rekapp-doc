@@ -10,7 +10,7 @@
           "type": "markdown",
           "state": {
             "file": "public/Util/Home.md",
-            "mode": "preview",
+            "mode": "source",
             "source": false
           }
         }
@@ -130,14 +130,14 @@
   },
   "active": "76c0358a9097fc7f",
   "lastOpenFiles": [
-    "public/Obsidian related/Templates/Code Block.md",
+    "private/Notes/2022-09-07.md",
     "public/Util/Home.md",
+    "public/Obsidian related/Templates/Code Block.md",
     "public/Util/Environments/PRD.md",
     "public/Util/Environments/ITE.md",
     "public/Util/Contacts/HPC customers.md",
     "public/Obsidian related/Templates/OTC password renewal.md",
     "public/Obsidian related/Templates/Renew Let's Encrypt Certificates.md",
-    "private/Notes/2022-09-07.md",
     "private/Notes/2022-09-06.md",
     "public/Util/Code/Install new pip packages.md"
   ]
