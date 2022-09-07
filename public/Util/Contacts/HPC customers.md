@@ -12,8 +12,6 @@ m.hofer@magna.com
 | ```stefan.sollerer@magna.com;``` | ```josef.jobst@magna.com;``` | ```heinz.hauck@magna.com;``` | ```anton.falkner@magna.com;``` |
 | -------------------------------- | --------------------------- | --------------------------- | ----------------------------- |
 
-
-
 # [[3) Tecosim 1000050198]]
 ```
 plmcloud@de.tecosim.com
