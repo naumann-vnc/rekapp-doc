@@ -163,11 +163,11 @@ prv 1000050198 1000050198 vm_acc --patchstdcertificates #
 ```
 ---
 SHELL
-8800000200 crd.gst.json 2022-07-04 2022-10-02 hpc_plmcloud_tsystemsservice_com_cer
-8800000200 crd.gst.json 2022-07-04 2022-10-02 wad_plmcloud_tsystemsservice_com_cer
-8800000200 crd.gst.json 2022-07-04 2022-10-02 wpl_plmcloud_tsystemsservice_com_cer
+8800000201 crd.gst.json 2022-07-04 2022-10-02 hpc_plmcloud_tsystemsservice_com_cer
+8800000201 crd.gst.json 2022-07-04 2022-10-02 wad_plmcloud_tsystemsservice_com_cer
+8800000201 crd.gst.json 2022-07-04 2022-10-02 wpl_plmcloud_tsystemsservice_com_cer
 ```shell
-cp -pr /opt/prv/public/credentials/8800000200 /opt/prv/public/credentials/archive/8800000200_$date
+cp -pr /opt/prv/public/credentials/8800000201 /opt/prv/public/credentials/archive/8800000201_$date
 /opt/prv/public/tools/letsencryptcreateorrenew.sh hpc_plmcloud_tsystemsservice_com 8800000200 8800000201 crd.gst.json
 /opt/prv/public/tools/letsencryptcreateorrenew.sh wad_plmcloud_tsystemsservice_com 8800000200 8800000201 crd.gst.json
 /opt/prv/public/tools/letsencryptcreateorrenew.sh wpl_plmcloud_tsystemsservice_com 8800000200 8800000201 crd.gst.json

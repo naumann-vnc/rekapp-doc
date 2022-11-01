@@ -4,16 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "76c0358a9097fc7f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "private/Notes/2022-10-04.md",
-            "mode": "source",
-            "source": false
+        "id": "7ebfe39ee6f1a7ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea80dcadeef1999c",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public/Util/Environments/ITE.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "939734a1f2eac220",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public/Util/Environments/PRD.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c5326b181e541ef3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "public/Util/Home.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5270baf194a80009",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +76,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -40,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "proxies",
+                "query": "crontab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 209
+    "width": 200
   },
   "right": {
     "id": "a508ebba1cb6def7",
@@ -77,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "private/Notes/2022-10-04.md",
+                "file": "public/Util/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "private/Notes/2022-10-04.md",
+                "file": "public/Util/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "private/Notes/2022-10-04.md"
+                "file": "public/Util/Home.md"
               }
             }
           }
@@ -128,17 +175,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "76c0358a9097fc7f",
+  "active": "c5326b181e541ef3",
   "lastOpenFiles": [
-    "private/Notes/2022-10-03.md",
-    "private/Notes/2022-10-04.md",
-    "private/Notes/2022-10-05.md",
-    "private/Notes/2022-10-06.md",
-    "private/Notes/2022-10-07.md",
-    "private/Notes/2022-10-10.md",
-    "private/Notes/2022-10-11.md",
-    "private/Notes/2022-10-13.md",
-    "private/Notes/2022-10-14.md",
-    "public/Util/Environments/PRD.md"
   ]
 }

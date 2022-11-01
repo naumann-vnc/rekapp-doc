@@ -58,7 +58,7 @@ prv 8400000300 vm_acc --createTest #
 /opt/prv/public/tools/testuserlogin.sh -h 8400000400 -t OTC-EU-DE-00000000001000041924
 /opt/prv/public/tools/changeotcpassword_1.sh -h 8400000400 -t OTC-EU-DE-00000000001000041924
   
-prv 8400000100 credential crd.hst.json #
+prv 8400000400 credential crd.hst.json #
   
 /opt/prv/public/tools/changeotcpassword_2.sh -h 8400000400 -t OTC-EU-DE-00000000001000041924
  
@@ -162,7 +162,7 @@ prv 1000046216 vm_acc --createTest #
 /opt/prv/public/tools/testuserlogin.sh -h 8800000200 -t OTC-EU-DE-00000000001000041918
 /opt/prv/public/tools/changeotcpassword_1.sh -h 8800000200 -t OTC-EU-DE-00000000001000041918
  
-prv 1000046216 credential crd.hst.json #
+prv 8800000200 credential crd.hst.json #
   
 /opt/prv/public/tools/changeotcpassword_2.sh -h 8800000200 -t OTC-EU-DE-00000000001000041918
  
@@ -175,7 +175,7 @@ prv 8800000200 vm_acc --createTest #
 /opt/prv/public/tools/testuserlogin.sh -h 1000088874 -t OTC-EU-DE-00000000001000041920
 /opt/prv/public/tools/changeotcpassword_1.sh -h 1000088874 -t OTC-EU-DE-00000000001000041920
  
-prv 1000046216 credential crd.hst.json #
+prv 1000088874 credential crd.hst.json #
   
 /opt/prv/public/tools/changeotcpassword_2.sh -h 1000088874 -t OTC-EU-DE-00000000001000041920
  
