@@ -36,24 +36,14 @@
             }
           },
           {
-            "id": "c5326b181e541ef3",
+            "id": "f9fbfc4c466a4b3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "public/Util/Home.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5270baf194a80009",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.0.3"
               }
             }
           }
@@ -108,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 285.5
   },
   "right": {
     "id": "a508ebba1cb6def7",
@@ -175,7 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c5326b181e541ef3",
+  "active": "f9fbfc4c466a4b3e",
   "lastOpenFiles": [
+    "public/Util/Environments/PRD.md",
+    "private/Notes/2022-11-09.md",
+    "private/Notes/2022-10-28.md",
+    "private/Notes/2022-10-31.md",
+    "private/Notes/2022-11-01.md",
+    "private/Notes/2022-11-03.md",
+    "private/Notes/2022-11-04.md",
+    "private/Notes/2022-11-07.md",
+    "private/Tasks/Checks/Daily2022-11-09.md",
+    "public/Tasks/Daily/RTD007 - Carrier Checks.md"
   ]
 }
