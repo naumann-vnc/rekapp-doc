@@ -38,6 +38,14 @@ jobcheck
 
 ```
 
+# [[5) BMTS 1000091175]]
+```shell
+sudo su - 1000091175
+cd $HOME
+jobcheck
+
+```
+
 ---
 ```shell
 Checking the following expressions:

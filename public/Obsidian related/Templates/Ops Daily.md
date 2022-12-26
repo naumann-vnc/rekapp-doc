@@ -7,6 +7,7 @@
 - Alex: (a) 
 - Iago: (a) 
 - Arthur: (a) 
+- Andres: (a) 
 Tech Talk: (a)
 - All:
 ToDos: 

@@ -8,6 +8,8 @@ Carrier: All OK;
 [Magna](https://hpc.1000046216.plmcloud.t-systems-service.com/): upload 0 (0), queued 0 (0), running 0 (0), download 0 (0), finished 0 (0) , failed 0 (0)
 [Tecosim](https://hpc.1000050198.plmcloud.t-systems-service.com/): upload 0 (0), queued 0 (0), running 0 (0), download 0 (0), finished 0 (0) , failed 0 (0)
 [Kaeser](https://hpc.1000033015.plmcloud.t-systems-service.com/): upload 0 (0), queued 0 (0), running 0 (0), download 0 (0), finished 0 (0) , failed 0 (0)
+[Recaro](https://hpc.1000088874.plmcloud.t-systems-service.com/): upload 0 (0), queued 0 (0), running 0 (0), download 0 (0), finished 0 (0) , failed 0 (0)
+[BMTS](https://hpc.1000091175.plmcloud.t-systems-service.com/): upload 0 (0), queued 0 (0), running 0 (0), download 0 (0), finished 0 (0) , failed 0 (0)
 __________________________
 [Hawk](https://websrv.hlrs.de/cgi-bin/hwwweather): 
 
