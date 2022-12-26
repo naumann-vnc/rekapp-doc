@@ -3,6 +3,7 @@
 sudo su - g1000027361
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 43 -h
 
 ```
 
@@ -11,6 +12,7 @@ jobcheck
 sudo su - g1000046216
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 38 -h
 
 ```
 
@@ -19,6 +21,7 @@ jobcheck
 sudo su - g1000050198
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 4 -h
 
 ```
 
@@ -27,6 +30,7 @@ jobcheck
 sudo su - g1000033015
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 4 -h
 
 ```
 
@@ -35,14 +39,16 @@ jobcheck
 sudo su - g1000088874
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 1 -h
 
 ```
 
 # [[5) BMTS 1000091175]]
 ```shell
-sudo su - 1000091175
+sudo su - g1000091175
 cd $HOME
 jobcheck
+/opt/crn/tools/joblog.sh -l 1 -h
 
 ```
 
