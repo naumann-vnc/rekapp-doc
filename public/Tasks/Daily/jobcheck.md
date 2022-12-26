@@ -20,8 +20,8 @@ jobcheck
 ```shell
 sudo su - g1000050198
 cd $HOME
-jobcheck
 /opt/crn/tools/joblog.sh -l 4 -h
+jobcheck
 
 ```
 
@@ -29,8 +29,8 @@ jobcheck
 ```shell
 sudo su - g1000033015
 cd $HOME
-jobcheck
 /opt/crn/tools/joblog.sh -l 4 -h
+jobcheck
 
 ```
 
@@ -38,8 +38,8 @@ jobcheck
 ```shell
 sudo su - g1000088874
 cd $HOME
-jobcheck
 /opt/crn/tools/joblog.sh -l 1 -h
+jobcheck
 
 ```
 
@@ -47,8 +47,8 @@ jobcheck
 ```shell
 sudo su - g1000091175
 cd $HOME
-jobcheck
 /opt/crn/tools/joblog.sh -l 1 -h
+jobcheck
 
 ```
 
