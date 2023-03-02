@@ -4,44 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "7ebfe39ee6f1a7ca",
+        "id": "aa2ed3521a176198",
         "type": "tabs",
         "children": [
           {
-            "id": "ea80dcadeef1999c",
+            "id": "c66a737dc2ec5467",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/Util/Environments/ITE.md",
-                "mode": "preview",
+                "file": "Server/Installation/Postgres.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "939734a1f2eac220",
+            "id": "571200762c239b9f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/Util/Environments/PRD.md",
-                "mode": "preview",
+                "file": "Server/Installation/pgAdmin.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "f9fbfc4c466a4b3e",
+            "id": "6d856e9e8b3a98ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "public/Util/Home.md",
+                "file": "Server/Installation/Postgres.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "crontab",
+                "query": "ln",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 255.5
   },
   "right": {
     "id": "a508ebba1cb6def7",
@@ -114,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "public/Util/Home.md",
+                "file": "Server/Installation/Postgres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "public/Util/Home.md",
+                "file": "Server/Installation/Postgres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,28 +150,59 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "public/Util/Home.md"
+                "file": "Server/Installation/Postgres.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "f9fbfc4c466a4b3e",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New Excalidraw drawing": false
+    }
+  },
+  "active": "6d856e9e8b3a98ae",
   "lastOpenFiles": [
+    "Server/Installation/Rekapp.md",
+    "Server/Installation/Postgres.md",
+    "Server/Installation/pgAdmin.md",
+    "Server/Installation/Grafana.md",
+    "Obsidian/Templates/Code Block.md",
+    "Obsidian/Templates/Renew Let's Encrypt Certificates.md",
+    "Obsidian/Templates/OTC password renewal.md",
+    "Obsidian/Templates/Ops Daily.md",
+    "Obsidian/Templates/Check.md",
+    "Obsidian/Templates",
+    "Obsidian/Languages.md",
+    "Obsidian",
+    "Server/Installation",
+    "Server",
+    "private/Notes/2023-02-22.md",
+    "private/Tasks/Checks/Daily2023-02-13.md",
+    "private/Notes/2023-02-17.md",
     "public/Util/Environments/PRD.md",
-    "private/Notes/2022-11-09.md",
-    "private/Notes/2022-10-28.md",
-    "private/Notes/2022-10-31.md",
-    "private/Notes/2022-11-01.md",
-    "private/Notes/2022-11-03.md",
-    "private/Notes/2022-11-04.md",
-    "private/Notes/2022-11-07.md",
+    "public/Util/Environments/ITE.md",
+    "private/Tasks/Checks/Daily2023-02-16.md",
+    "private/Tasks/Checks/Daily2022-11-16.md",
     "private/Tasks/Checks/Daily2022-11-09.md",
-    "public/Tasks/Daily/RTD007 - Carrier Checks.md"
+    "private/Tasks/Checks/Daily2022-10-11.md",
+    "private/Tasks/Checks/Daily2022-10-07.md",
+    "private/Tasks/Checks/Daily2022-09-29.md",
+    "private/Tasks/Checks/Daily2022-09-27.md",
+    "private/Tasks/Checks/Daily2022-09-28.md",
+    "private/Tasks/Checks/Daily2022-12-26.md"
   ]
 }
